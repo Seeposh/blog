@@ -38,7 +38,7 @@
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-expended="false">Блок</a>
                             <ul class="dropdown-menu" role="menu">
                                 <li><a href="{{route('admin.category.index')}}" class="dropdown-item">Категорий</a></li>
-                                <li><a href="#" class="dropdown-item">Категорий</a></li>
+                                <li><a href="{{route('admin.article.index')}}" class="dropdown-item">Материалы</a></li>
                             </ul>
                         </li>
                     </ul>
